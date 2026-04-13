@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+*.egg-info/
+dist/
+build/
+.uv/
+prediction*.json
+*.metrics.json
+log_*.json
+*.npy
+data/*.json
+.DS_Store

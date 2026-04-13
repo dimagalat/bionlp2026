@@ -1,0 +1,12 @@
+[project]
+name = "dmrs-council"
+version = "0.1.0"
+description = "Multi-phase deliberative council for DMRS defense mechanism classification"
+requires-python = ">=3.11"
+dependencies = [
+    "google-genai>=1.0.0",
+    "scikit-learn>=1.3.0",
+    "numpy>=1.24.0",
+    "tqdm>=4.65.0",
+    "python-dotenv>=1.0.0",
+]

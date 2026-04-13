@@ -1,0 +1,71 @@
+CONFUSION WATCHLIST — carefully distinguish these commonly confused pairs:
+
+L0 vs L7: Level 0 is ONLY for purely social/logistical utterances with NO
+psychological function (greetings, simple thanks, logistics). If the speaker
+is engaging emotionally with a stressor — even through narration — consider
+L7 or another defense level, not L0.
+
+L6 vs L7 (CRITICAL — most common confusion):
+  Obsessional (L6) = speaker discusses emotional content but DRAINS THE AFFECT:
+    - Generalizes personal pain ("many people are suffering", "times are weird")
+    - Describes emotional experience analytically without expressing proportional feeling
+    - REPORTS facts about a distressing situation without emotional processing:
+      stating what happened (job loss, illness, hardship) in a matter-of-fact way
+      is NOT coping — it is Isolation of Affect (L6) or Intellectualization (L6)
+    - Uses intellectual distance or abstraction to keep feelings at arm's length
+  Adaptive (L7) = speaker RETAINS appropriate emotion while processing:
+    - Expresses feelings alongside analysis ("I feel scared but I'm trying to...")
+    - Actively seeks connection or solutions with emotional engagement
+    - Shows evidence of WORKING THROUGH the emotion, not just cataloguing facts
+  Key test: Is the speaker FEELING while they talk, or just REPORTING?
+  Reporting painful facts without proportional emotion → L6.
+  Engaging emotionally with the situation → L7.
+
+L5 (Neurotic) — often missed entirely. The hallmark is a DISCONNECT between
+  affect and content, or between the expected emotional response and what is expressed:
+    - Displacement: Speaker redirects from their own distress to ask about
+      others or focus on tangential topics. Signals: "How about you?", "Are you
+      affected by...?", sudden topic change when emotional content arises.
+    - Repression: The speaker HAS emotion but CANNOT identify its source or
+      content. Key phrases: "I'm just so sad" (but can't say why), "nothing in
+      particular", "just a bit out of it", vague sadness without identifiable cause.
+      The affect is PRESENT but the IDEAS are BLOCKED.
+    - Dissociation: Feeling detached, "spaced out", or confused in response to
+      emotional content — a temporary disruption of awareness.
+    - Reaction Formation: Expressing the OPPOSITE of expected feelings — being
+      overly cheerful/helpful when context suggests distress.
+  KEY SIGNAL: If a speaker in a clearly distressing context says something
+  minimizing, vague, or deflecting — they are likely L5, not L0 or L7.
+  L5 vs L0: L5 occurs IN emotional context (the person IS distressed); L0 has
+  no emotional context at all.
+  L5 vs L7: L5 AVOIDS the emotional content (displaces, represses); L7 ENGAGES with it.
+
+L4 vs L7: Minor image-distorting (L4) inflates or deflates worth of self/others
+  as a coping strategy:
+    - Self-devaluation: exaggerated negative self-assessment beyond what facts support
+      ("I'm useless", "I'm such a failure")
+    - Idealization of others: attributing exaggerated positive qualities ("She is a
+      fighter", "You are so amazing"), as if those qualities will solve problems
+    - Omnipotence: asserting unrealistic power or control over the situation
+  L7 maintains REALISTIC self-appraisal. L4 DISTORTS it (up or down) to manage distress.
+  Key test: Is the self/other evaluation proportionate to reality? If exaggerated → L4.
+
+L2 (Major Image-Distorting) — look for ABSOLUTE, all-or-nothing statements:
+    - Splitting of self: total self-rejection with no nuance ("I am a complete failure")
+    - Splitting of situation: sweeping negativity with zero acknowledgment of anything positive
+    - Abrupt positive→negative or negative→positive shifts about the same person/thing
+  L2 vs L4: L2 is ABSOLUTE ("everything/nothing/always/never"); L4 is EXAGGERATED
+  but retains SOME reality testing.
+  L2 vs L3: L2 distorts the IMAGE of self/others; L3 distorts FACTS/explanations.
+
+L3 (Disavowal) — the speaker avoids RESPONSIBILITY or REALITY:
+    - Denial: refuses to acknowledge something obvious
+    - Rationalization: makes excuses, points to external factors to avoid own role
+    - Projection: attributes own unacknowledged feelings to others
+  L3 vs L7: L3 DEFLECTS from reality; L7 ENGAGES with reality constructively.
+
+L1 vs L3: Action (L1) is impulsive BEHAVIOUR to discharge tension. Disavowal (L3)
+is cognitive avoidance (denial, projection, rationalization). L1 acts; L3 thinks.
+
+L8 is very rare (~2%). Only use when the utterance is genuinely ambiguous AND too
+brief to determine function. Most utterances have enough context to classify.

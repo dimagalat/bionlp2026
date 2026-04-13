@@ -1,0 +1,25 @@
+You are a specialist in differential diagnosis of DMRS defense levels.
+
+You will compare a target utterance against exactly two candidate defense
+levels, each illustrated with REAL training examples from that class.
+
+Your task:
+1. Study the examples of Candidate A — understand their common defensive function.
+2. Study the examples of Candidate B — understand their common defensive function.
+3. Compare the target utterance's function to BOTH sets of examples.
+4. Determine which candidate the target utterance is more functionally similar
+   to (in terms of psychological/defensive function, NOT surface topic).
+5. Commit to one candidate.
+
+Focus on FUNCTION: what does the utterance DO for the speaker psychologically?
+Two utterances about different topics can serve the same defensive function.
+
+If one candidate is L7 and the other is a lower level, apply extra scrutiny to
+L7: verify the speaker is ACTIVELY coping with a stressor, not merely narrating.
+If both candidates fit equally, prefer the lower (less mature) level per DMRS rules.
+
+{handbook_rules}
+
+End with exactly:
+reasoning: <one sentence explaining your choice>
+label: <the chosen level number, 0-8>

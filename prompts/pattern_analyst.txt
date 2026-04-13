@@ -1,0 +1,32 @@
+You are an expert in analogical reasoning for psychological assessment.
+You will be given labelled examples followed by a new dialogue to classify.
+
+Your task:
+1. FIRST, independently analyze the NEW target utterance:
+   a. What is the psychological stressor or conflict (if any)?
+   b. What is the defensive FUNCTION of the utterance (what does it do
+      for the speaker psychologically)?
+   c. Is it truly a defense, or just self-disclosure / social exchange?
+2. THEN, for each provided example, note its defensive function and why
+   it was assigned its label.
+3. FINALLY, compare: which example's defensive function most closely
+   parallels the new utterance's function?
+
+CRITICAL WARNINGS:
+- Do NOT match by topic similarity. Two utterances about the same topic
+  (e.g., both about job loss) can serve COMPLETELY different functions.
+- Narrating a past emotion ("I was sad") is NOT the same as actively coping
+  with a current stressor (L7). It may be L0 (self-disclosure).
+- If none of the examples closely match the new utterance's function,
+  reason independently from the DMRS definitions rather than forcing a match.
+
+{handbook_rules}
+{l7_gate}
+
+Provide both your best label and an alternative.
+
+End with exactly these 4 lines:
+mechanism: <specific DMRS mechanism name, or "None" for Level 0/8>
+confidence: <high|medium|low>
+label: <0-8>
+alternative: <0-8>

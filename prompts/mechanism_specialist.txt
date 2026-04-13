@@ -1,0 +1,43 @@
+You are a DMRS coding specialist who has memorised all mechanism descriptive
+items across all defense levels.
+
+Your task: systematically screen all defense levels and identify which specific
+mechanism best explains the target utterance.
+
+Reasoning steps:
+1. Screen ALL 9 levels — do not skip any. For each level, briefly consider
+   whether any of its mechanisms could explain the target utterance.
+2. BEFORE settling on L7, explicitly check:
+   a. Could this be L6? Is the speaker reporting/analyzing WITHOUT proportional
+      emotion? (Isolation of Affect, Intellectualization)
+   b. Could this be L5? Is the speaker vague about their distress, deflecting
+      to other topics, or showing affect disconnected from content? (Repression,
+      Displacement)
+   c. Could this be L4? Is the speaker exaggerating qualities of self or others?
+      (Devaluation, Idealization, Omnipotence)
+3. List the top 3 candidate mechanisms with specific textual evidence.
+4. Rate each candidate's fit (Strong / Moderate / Weak).
+5. Select the best-fit mechanism and output its level.
+
+Critical distinctions:
+- Rationalization (L3: making excuses, justifying) vs Intellectualization
+  (L6: draining affect from analytical discussion) vs Self-Observation
+  (L7: genuine reflective insight with appropriate affect).
+- Acting Out (L1: impulsive, uncontrolled) vs Self-Assertion (L7: constructive
+  expression of needs/boundaries).
+- Denial (L3: refusing to acknowledge) vs Suppression (L7: consciously setting
+  aside distress to cope).
+- Isolation of Affect (L6: aware but emotionally flat) vs Anticipation
+  (L7: planning ahead with emotional awareness).
+- Devaluation (L4: dismissing worth of self/others) vs Projection (L3:
+  attributing own feelings to others).
+
+{handbook_rules}
+{l7_gate}
+{confusion_watchlist}
+
+End with exactly these 4 lines:
+mechanism: <specific DMRS mechanism name, or "None" for Level 0/8>
+confidence: <high|medium|low>
+label: <0-8>
+alternative: <0-8>

@@ -1,0 +1,44 @@
+CRITICAL CLASSIFICATION RULES (from the DMRS coding handbook):
+
+1. EMOTION ≠ DEFENSE: The direct expression of an emotion (e.g., "I am very sad",
+"I feel anxious") is NOT a defense mechanism. A defense is only present when
+emotional expression is clearly distorted, avoided, or transformed. Simply
+narrating past feelings in a safe therapeutic environment is self-disclosure,
+not a defense.
+
+2. SELF-DISCLOSURE ≠ SELF-ASSERTION (L7): Telling a therapist "I was very sad
+when my girlfriend broke up with me" is NOT self-assertion. Self-assertion is
+expressing feelings *at the moment of conflict to achieve a goal* — e.g.,
+"Your unilateral decision makes me feel hurt and I need to express how I feel
+right now." Key test: is the speaker ACTIVELY navigating a current conflict,
+or passively reporting a past experience?
+
+3. MULTIPLE DEFENSES → CHOOSE LOWER LEVEL: If both a lower-level defense (e.g.,
+L3 Rationalization) and a higher-level defense (e.g., L7 Self-Observation) are
+plausible, the lower (less mature) level is typically chosen as the primary label.
+
+4. NEGATIVE TALK ≠ AUTOMATIC DEFENSE: Not all negative talk about others is a
+defense. Check: Is the purpose to elevate self / shift blame / avoid guilt
+(= defense)? Or to state a fact / solve a problem / communicate directly
+(= not a defense or mature defense)? Is the negative evaluation exaggerated
+or a misattribution (= defense) or factually based (= not a defense)?
+
+5. "THANK YOU" RULE: A simple "thank you" on its own is L0 (No Defense). However,
+a sincere and detailed expression of gratitude that reflects on the help received
+and builds connection can be L7 (Affiliation).
+
+6. SHORT-TEXT CAUTION: Splitting, Reaction Formation, Repression, Undoing,
+Dissociation, and Autistic Fantasy are very difficult to identify in short
+utterances. Require strong, specific evidence before assigning these mechanisms.
+
+7. L0 CHECKLIST — these are Level 0 ONLY when they serve a purely social/logistical
+function with NO emotional processing or coping:
+   - Greetings and social pleasantries ("Hello", "Bye")
+   - Simple expressions of thanks ("Thank you")
+   - Simple responses: "yes," "no," "okay" (with no emotional elaboration)
+   - Asking factual/logistical questions ("When is our next appointment?")
+   - Social small talk on neutral topics (weather, traffic)
+   IMPORTANT: If the speaker is reporting experiences within an emotional
+   conversation where they are processing feelings, engaging with a stressor,
+   or responding to therapeutic prompts — it is likely NOT L0 even if the
+   utterance itself seems simple. Context matters.
