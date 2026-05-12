@@ -1,6 +1,6 @@
 # Deliberative Council for Defense Mechanism Classification
 
-> **2nd place** (F1 0.406) out of 63 teams at BioNLP 2026 PsyDefDetect.
+> **2nd place** (F1 0.406) out of 64 teams at BioNLP 2026 PsyDefDetect.
 > The council alone — zero fine-tuning, just prompts — scores F1 0.382 (top 5).
 
 ```bibtex
